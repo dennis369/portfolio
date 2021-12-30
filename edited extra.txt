@@ -1,0 +1,45 @@
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 work-grid php graphic">
+                    <div class="portfolio-item">
+                        <div class="hover-bg">
+                            <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                                <div class="hover-text">
+                                    <h4>Business Card</h4>
+                                    <h5>Stationary</h5>
+                                    <div class="clearfix"></div>
+                                    <i class="fa fa-plus"></i>
+                                </div>
+                                <img src="img/portfolio/2.jpg" class="img-responsive" alt="portfolio-image">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 work-grid wordpress graphic">
+                    <div class="portfolio-item">
+                        <div class="hover-bg">
+                            <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                                <div class="hover-text">
+                                    <h4>Logo Design</h4>
+                                    <h5>Branding</h5>
+                                    <div class="clearfix"></div>
+                                    <i class="fa fa-plus"></i>
+                                </div>
+                                <img src="img/portfolio/1.jpg" class="img-responsive" alt="portfolio-image">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 work-grid wordpress graphic">
+                    <div class="portfolio-item">
+                        <div class="hover-bg">
+                            <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                                <div class="hover-text">
+                                    <h4>Book Cover</h4>
+                                    <h5>Branding</h5>
+                                    <div class="clearfix"></div>
+                                    <i class="fa fa-plus"></i>
+                                </div>
+                                <img src="img/portfolio/book.jpg" class="img-responsive" alt="portfolio-image">
+                            </a>
+                        </div>
+                    </div>
+                </div>
